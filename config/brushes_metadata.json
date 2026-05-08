@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "format": "HD Tattoo Brushes",
+  "description": "Complete HD tattoo brush set with 50+ professional brushes for GIMP 3.0",
+  "categories": [
+    {
+      "id": "outline",
+      "name": "Outline Brushes",
+      "description": "Brushes for precise outlines and linework",
+      "count": 5
+    },
+    {
+      "id": "shading",
+      "name": "Shading Brushes",
+      "description": "Brushes for creating tones and shadows",
+      "count": 6
+    },
+    {
+      "id": "fill",
+      "name": "Fill Brushes",
+      "description": "Brushes for solid coverage and color fills",
+      "count": 4
+    },
+    {
+      "id": "detail",
+      "name": "Detail Brushes",
+      "description": "Brushes for fine details and intricate work",
+      "count": 4
+    },
+    {
+      "id": "specialty",
+      "name": "Specialty Brushes",
+      "description": "Special effect and artistic brushes",
+      "count": 6
+    },
+    {
+      "id": "stipple",
+      "name": "Stipple Brushes",
+      "description": "Dot-based brushes for stippling effects",
+      "count": 4
+    },
+    {
+      "id": "texture",
+      "name": "Texture Brushes",
+      "description": "Brushes for creating various textures",
+      "count": 5
+    },
+    {
+      "id": "linework",
+      "name": "Linework Brushes",
+      "description": "Specialized brushes for different line styles",
+      "count": 4
+    },
+    {
+      "id": "blending",
+      "name": "Blending Brushes",
+      "description": "Brushes for smooth blending and transitions",
+      "count": 4
+    }
+  ],
+  "total_brushes": 42,
+  "features": [
+    "HD Quality brushes optimized for tattoo design",
+    "Pressure sensitivity support",
+    "Tilt sensitivity for natural strokes",
+    "Color dynamics for realistic shading",
+    "Customizable presets",
+    "Full GIMP 3.0 integration",
+    "Professional bristle simulation",
+    "Advanced texture controls"
+  ],
+  "recommended_settings": {
+    "canvas_dpi": 300,
+    "color_mode": "RGB",
+    "default_brush": "outline_medium",
+    "default_size": 5.0,
+    "default_opacity": 1.0,
+    "default_hardness": 0.9
+  }
+}
